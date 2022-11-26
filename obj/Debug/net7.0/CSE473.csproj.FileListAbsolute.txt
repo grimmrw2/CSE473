@@ -1,0 +1,15 @@
+/workspaces/CSE473/bin/Debug/net7.0/CSE473
+/workspaces/CSE473/bin/Debug/net7.0/CSE473.deps.json
+/workspaces/CSE473/bin/Debug/net7.0/CSE473.runtimeconfig.json
+/workspaces/CSE473/bin/Debug/net7.0/CSE473.dll
+/workspaces/CSE473/bin/Debug/net7.0/CSE473.pdb
+/workspaces/CSE473/obj/Debug/net7.0/CSE473.csproj.AssemblyReference.cache
+/workspaces/CSE473/obj/Debug/net7.0/CSE473.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSE473/obj/Debug/net7.0/CSE473.AssemblyInfoInputs.cache
+/workspaces/CSE473/obj/Debug/net7.0/CSE473.AssemblyInfo.cs
+/workspaces/CSE473/obj/Debug/net7.0/CSE473.csproj.CoreCompileInputs.cache
+/workspaces/CSE473/obj/Debug/net7.0/CSE473.dll
+/workspaces/CSE473/obj/Debug/net7.0/refint/CSE473.dll
+/workspaces/CSE473/obj/Debug/net7.0/CSE473.pdb
+/workspaces/CSE473/obj/Debug/net7.0/CSE473.genruntimeconfig.cache
+/workspaces/CSE473/obj/Debug/net7.0/ref/CSE473.dll
